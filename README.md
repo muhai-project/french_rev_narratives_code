@@ -15,7 +15,7 @@ Graphs, Semantic web.
 ```
 # Code of Conduct: 
 # Code repository: 
-git@github.com:muhai-project/french_rev_narratives.git
+git@github.com:muhai-project/french_rev_narratives_code.git
 # Contact: 
 Inès Blin
 # Contribution guidelines: 
@@ -43,13 +43,13 @@ French Revolution Narrative
 # Installation instructions: 
 If using https, run:
 ```python
-git clone https://github.com/muhai-project/french_rev_narratives.git 
+git clone https://github.com/muhai-project/french_rev_narratives_code.git 
 cd building-fr-narrative-from-wikidata
 ```
 
 If using ssh, run:
 ```python
-git clone git@github.com:muhai-project/french_rev_narratives.git
+git clone git@github.com:muhai-project/french_rev_narratives_code.git
 cd building-fr-narrative-from-wikidata
 ```
 
@@ -95,7 +95,7 @@ pip install pycurl --no-cache-dir
 GPL 3.0
 # Logo: 
 # Name: 
-french_rev_narratives
+french_rev_narratives_code
 # Ontologies: 
 # Owner: 
 Inès Blin
