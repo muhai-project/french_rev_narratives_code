@@ -44,13 +44,13 @@ French Revolution Narrative
 If using https, run:
 ```python
 git clone https://github.com/muhai-project/french_rev_narratives_code.git 
-cd building-fr-narrative-from-wikidata
+cd french_rev_narratives_code
 ```
 
 If using ssh, run:
 ```python
 git clone git@github.com:muhai-project/french_rev_narratives_code.git
-cd building-fr-narrative-from-wikidata
+cd french_rev_narratives_code
 ```
 
 In the `settings` folder, create a `private.py`file and add the following paramters:
